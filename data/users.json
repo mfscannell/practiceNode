@@ -1,0 +1,17 @@
+[
+    {
+        "username" : "frank",
+        "name": "Frank Sinatra",
+        "bio": "singer"
+    },
+    {
+        "username": "jobim",
+        "name": "Antonio Carlos Jobim",
+        "bio": "Composer"
+    },
+    {
+        "username": "fred",
+        "name": "Fred Astair",
+        "bio": "Dancer and Actor"
+    }
+]
