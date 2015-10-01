@@ -2,4 +2,4 @@
 
 Practice learning express.js from "Professional Node.js" by Pedro Teixeira.  
 
-Read up to p. 222.  Need to start with Section "Routing Requests".
+Read up to listing 21.9, p. 227.
